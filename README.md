@@ -21,9 +21,9 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-181717?style=flat-square&logo=figma)
 ![.Net](https://img.shields.io/badge/-.Net-black?style=flat-square&logo=dotnet)
-
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkhoa27&show_icons=true&theme=dark&locale=en&layout=compact" alt="tkhoa27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tkhoa27&show_icons=true&theme=onedark&locale=en" alt="tkhoa27"  width="420" /></p>
