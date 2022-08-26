@@ -23,7 +23,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma) 
 ![bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkhoa27&show_icons=true&theme=dark&locale=en&layout=compact" alt="tkhoa27" /></p>
