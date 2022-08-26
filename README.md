@@ -20,7 +20,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=node.js&logoColor=)
 
-#### Framework/Library Frontend
+#### Framework/Library 
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
