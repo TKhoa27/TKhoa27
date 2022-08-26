@@ -13,7 +13,8 @@
 <a href="https://instagram.com/https://www.instagram.com/order_1lymatchadaxay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/order_1lymatchadaxay/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3><br>
+<h3 align="left">Languages and Tools:</h3>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
