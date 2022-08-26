@@ -23,6 +23,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![.Net](https://img.shields.io/badge/-.Net-black?style=flat-square&logo=dotnet)
+![.bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkhoa27&show_icons=true&theme=dark&locale=en&layout=compact" alt="tkhoa27" /></p>
