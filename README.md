@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khoa</h1>
-<h3 align="center">A frontend developer from VietNam</h3>
+<h1 align="center">Hi, I'm Khoa</h1>
+<h3 align="center">A frontend developer</h3>
 
 
 - 📫 How to reach me **tieukhoa.it@gmail.com**
@@ -15,22 +15,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=node.js&logoColor=)
 
 #### Framework/Library 
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
-
-#### Database/State
-![Firebase](https://img.shields.io/badge/-MySql-000?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 #### Other
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
